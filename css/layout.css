@@ -12,6 +12,7 @@
 }
 *{
     color: var(--cor-neutra-clara);
+}
 a{
     color: var(--cor-secundaria-escura);
     text-decoration: underline;
